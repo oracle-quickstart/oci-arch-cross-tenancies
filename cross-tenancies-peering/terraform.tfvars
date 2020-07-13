@@ -1,3 +1,6 @@
+# Copyright (c) 2020, Oracle and/or its affiliates. 
+# All rights reserved. The Universal Permissive License (UPL), Version 1.0 as shown at http://oss.oracle.com/licenses/upl
+
 # Authentication to Tenancy A - Region 01 and Region 02
 tenancy_ocid_a         = "ocid1.tenancy.oc1.."
 user_ocid_a            = "ocid1.user.oc1.."
